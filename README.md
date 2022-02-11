@@ -1,1 +1,1 @@
-# QRM_Querying_lab
+# querying-lab
